@@ -16,7 +16,7 @@
 ## Assets/Includes
 
 - Required header
-- Static trial libs and dynamic libs for MSW x64/x86 (TinderBox projects are hardcoded to x64 due to limited platform support in TinderBox)
+- **Trial** static libs and dynamic libs for MSW x64/x86 (TinderBox projects are hardcoded to x64 due to limited platform support in TinderBox)
 - Sample GML with nmanipulate gesture to drag, scale and rotate
 
 ## Licensing
